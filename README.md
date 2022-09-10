@@ -1,2 +1,2 @@
 # jpg-to-png
-change image format from JPG to PNG
+This program is able to change image format from JPG to PNG
